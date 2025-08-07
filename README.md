@@ -1,10 +1,8 @@
-# 🎓 Student Result Management System
+ Student Result Management System
 
 A mini project in Python using SQLite based on the V-Model.
 
----
-
-## 🔐 Login Credentials
+Login Credentials
 
 | Username | Password  | Role     |
 |----------|-----------|----------|
@@ -13,9 +11,7 @@ A mini project in Python using SQLite based on the V-Model.
 | poorna   | poorna@123| student  |
 | rahul01  | rahul@123 | student  |
 
----
-
-## 📁 File Overview
+ File Overview
 
 | File           | Description                                |
 |----------------|--------------------------------------------|
@@ -25,9 +21,7 @@ A mini project in Python using SQLite based on the V-Model.
 | `main.py`      | Project entry point                        |
 | `add_student.py` | Add new students to the database         |
 
----
-
-## ✅ How to Run
+ How to Run
 
 1. Run `database.py` to create the database and default admin  
 2. Run `add_student.py` to add students (optional)  
