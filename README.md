@@ -1,4 +1,4 @@
- #Student Result Management System
+ Student Result Management System
 
 A mini project in Python using SQLite based on the V-Model.
 
